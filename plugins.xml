@@ -1,7 +1,7 @@
 <plugins>
    <pyqgis_plugin name="QLesinforg" version="0.1.0">
        <qgis_minimum_version>3.0.0</qgis_minimum_version>
-        <file_name>QLesinforg</file_name>
-        <download_url>https://grewolf.github.io/QLesinforg.zip</download_url>
+        <file_name>qlesinforg</file_name>
+        <download_url>https://grewolf.github.io/qlesinforg.zip</download_url>
    </pyqgis_plugin>
 </plugins>
