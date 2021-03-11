@@ -1,7 +1,12 @@
 <plugins>
-   <pyqgis_plugin name="QLesinforg" version="0.5.0">
-       <qgis_minimum_version>3.16</qgis_minimum_version>
+    <pyqgis_plugin name="QLesinforg" version="0.5.0">
+        <qgis_minimum_version>3.16</qgis_minimum_version>
         <file_name>qlesinforg</file_name>
         <download_url>https://grewolf.github.io/qlesinforg.zip</download_url>
-   </pyqgis_plugin>
+    </pyqgis_plugin>
+    <pyqgis_plugin name="GWolf" version="0.2.0">
+        <qgis_minimum_version>3.0</qgis_minimum_version>
+        <file_name>qlesinforg</file_name>
+        <download_url>https://grewolf.github.io/gwolf.zip</download_url>
+    </pyqgis_plugin>
 </plugins>
