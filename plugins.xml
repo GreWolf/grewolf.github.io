@@ -6,7 +6,7 @@
     </pyqgis_plugin>
     <pyqgis_plugin name="GWolf" version="0.2.0">
         <qgis_minimum_version>3.0</qgis_minimum_version>
-        <file_name>qlesinforg</file_name>
+        <file_name>gwolf</file_name>
         <download_url>https://grewolf.github.io/gwolf.zip</download_url>
     </pyqgis_plugin>
 </plugins>
